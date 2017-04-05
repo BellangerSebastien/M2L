@@ -12,6 +12,7 @@ client.post('default/user/login', data=data)
 
 # Vérifie que la connexion est un succès
 ygjkjkjhkjhkh
+fsddsds
 try :
     assert 'Bienvenue Lucille' in client.text
     print "Test connexion OK"
