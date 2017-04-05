@@ -68,3 +68,4 @@ auth.settings.reset_password_requires_verification = True
 
 # décommenter ce lien pour créer des utilisateurs via le menu register
 auth.settings.actions_disabled=['register']
+
